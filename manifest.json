@@ -1,0 +1,57 @@
+{
+  "short_name": "TodoList",
+  "name": "Mum Todo List",
+  "description": "Une application de gestion de tâches",
+ 
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+
+    {
+      "src": "screenshots/screenshot1-desktop.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "platform": "wide"
+    },
+
+    {
+      "src": "screenshots/screenshot4-desktop.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "platform": "wide"
+    },
+
+    {
+      "src": "screenshots/screenshot1-mobile.png",
+      "sizes": "533x999",
+      "type": "image/png",
+      "platform": "mobile"
+    },
+    {
+      "src": "screenshots/screenshot2-mobile.png",
+      "sizes": "721x987",
+      "type": "image/png",
+      "platform": "mobile"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
+
